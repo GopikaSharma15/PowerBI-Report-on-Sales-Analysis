@@ -1,1 +1,1 @@
-# InsightIsland
+The "Power BI Report for Walmart Sales Analysis" repository contains a comprehensive Power BI report that provides detailed insights into the sales performance of Walmart stores. The report includes information on the quantity of goods ordered, pricing, and location, allowing users to gain a deeper understanding of Walmart's sales trends and patterns. With its intuitive interface and interactive visuals, this report is an invaluable tool for anyone looking to analyze Walmart sales data and make informed business decisions.
